@@ -29,6 +29,7 @@ const ContactForm = () => {
 
   return (
     <div className="contact-form">
+      <h1>Urnengarten-Goldenbebek</h1>
       <h2>Kontaktieren Sie uns</h2>
       <form onSubmit={handleSubmit}>
         <div>
@@ -65,6 +66,30 @@ const ContactForm = () => {
         </div>
         <button type="submit">Absenden</button>
       </form>
+      <p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+      </p>
     </div>
   );
 };

@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <h1>Urnengarten-Goldenbek</h1>
-      <h2>Bei uns liegen Sie richtig!!!</h2>
+      <h2>Frieden findet man nur in den Wäldern.</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
         distinctio, quam officia odit neque harum consequatur aperiam

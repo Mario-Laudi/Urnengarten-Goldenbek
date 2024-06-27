@@ -2,7 +2,9 @@ import React from "react";
 
 function Services() {
   return (
-    <div className="services">
+    <div>
+      <h1>Urnengarten-Goldenbek</h1>
+      <h2>Frieden findet man nur in den Wäldern.</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque earum
         deserunt culpa, placeat ex blanditiis ipsa incidunt sunt atque quod!

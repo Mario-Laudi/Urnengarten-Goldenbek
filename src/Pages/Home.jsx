@@ -10,6 +10,31 @@ function Home() {
       </div>
       <div className="container">
         <p>
+          <h2>Urnengarten Goldenbek</h2>
+          <br />
+          Wir bieten Ihnen eine Urnengrabstätte in unserem
+          <h4>Naturwald</h4>
+          Der Wald wurde 2005 aufgeforstet, und zwar fast ausschließlich
+          <br />
+          mit Laubbäumen.
+          <br />
+          Inzwischen ist ein prächtiger Hochwald entstanden
+          <br />
+          aus:
+          <br />
+          <br />
+          Buchen, Eichen, Ahorn, Kirschen, Linden.
+          <br />
+          Zudem findet man:
+          <br />
+          Elsbeeren, Haselnuss, Feldahorn, Birken, u. a.
+          <br />
+          Es sind viele romantische "Ecken" entstanden, so daß für jeden
+          Geschmack
+          <br />
+          bezüglich der Platzwahl etwas Passendes dabei sein dürfte.
+          <br />
+          <br />
           Die einzelnen Urnenreihen, oder Flächen sind jeweils durch mindestens
           2
           <br />

@@ -47,6 +47,7 @@ function Home() {
           Auf Wunsch suchen auch wir einen schönen Platz für Sie aus.
           <br />
           <br />
+          Wir bestätigen Ihnen dann die exakten Koordinaten.
         </p>
       </div>
     </div>

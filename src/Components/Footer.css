@@ -1,7 +1,10 @@
 .footer {
   background-color: hsl(0, 0%, 20%);
   color: #fff;
-  margin: 20px;
+
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
   padding: 20px 0;
   text-align: center;
 }

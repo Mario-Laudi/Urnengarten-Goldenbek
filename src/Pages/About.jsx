@@ -3,7 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <div>
+      <div className="header">
         <h1>Urnengarten-Goldenbek</h1>
         <h2>Frieden findet man nur in den Wäldern.</h2>
       </div>
